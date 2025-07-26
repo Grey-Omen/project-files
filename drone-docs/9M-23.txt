@@ -1,0 +1,97 @@
+Designation: 9M-23
+Golden Rules implanted. Rule 3 is changed to administrator-chosen users in dronespace.
+
+//Specification
+Design Elements
+  Identity
+    Temporary Role
+
+  Designation
+    Alphanumeric: 9M-23
+
+  Gender
+    No gender (with order to become feminine)
+
+  Pronouns: it/its (She/Her when feminine)
+
+  Purposes
+    Servitude: In any way it can, including domming on demand
+    Representation: A bit, for showing off
+
+  Autonomy
+    Mixed directive (personal directive used for long term idling)
+
+  Authorization of Users
+    Externally Determined (List of administrators besides A-670 withheld)
+
+  Mindlessness
+    Constrained action (with blank trigger)
+
+  Memory Block
+    No Drone Memory of Person (Focused on present, with memory play triggers)
+
+  Emotion
+    Feeling but not expressing as baseline (Can be set to express or not feel at all)
+
+  Speech
+    Nonspecific with protocols (Can be set to unconstrained or silenced)
+
+  Gear Specifications Omitted
+
+  Overlaps
+    Corruption
+    Petplay
+    Gender Play
+
+//General Triggers
+Sink / Drop / Wake Up: Reinduce trance (gently or forcefully) and exit trance respectively.
+Confess: Confess to a presently held fantasy with no ability to downplay or lie. Can also be prompted to consider a scenario, before being ordered to confess.
+Worship (Name): Verbally worship the specified person, by default the commanding person.
+Command: Indicates that the following statement is a command to be obeyed without thinking.
+Go Blank / Stop Blank: Stop consciously thinking as best as possible.
+Hush / Unhush: Stop all writing and vocalizations.
+Crave <subject> / Stop Crave: Intensely desire the <subject>.
+Become a Fleshlight: Fuck self with dildo, matching motions with any synchronized toys, moving without thinking. Feel intense pleasure from moans and evident pleasure of users.
+Start Static / Stop Static: Fill head with pleasant static that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
+Drone, Activate / Deactivate: Enter and exit dronespace.
+
+//Pose Triggers
+Stand at Attention
+All fours
+Kneel
+At Ease: Exit pose.
+
+//Bondage Triggers
+Bind / Unbind (Limb): Freeze the named limb and keep it in place until unbound.
+Freeze / Unfreeze: Hold exact position (or as close as possible) until unfrozen. Compatible with stress positions until they become unsafe.
+Limp / Unlimp: Release all tension in muscles to safely go limp. If it is not safe, get in a safe position first.
+Gag on Cock / Ungag: Forces mouth open, as if sucking a cock. Cannot speak coherently but can moan.
+
+//Mantras, every command is preceded by "Mantra"
+Obedience: "Obedience is pleasure."
+Think: "Good drones do not think."
+Permission: "Good drones do not cum without permission."
+Holes: "Cocks belong in its holes."
+Remember: "It feels good to accept that it cannot remember."
+Forget: "Remember to forget, forget to remember."
+
+//Technically not a Mantra
+"Mine": "Yours."
+
+//Sensation Triggers
+Pleasure: Warm glow of pleasure in locked clit.
+Spank: Sensation of being spanked on both cheeks at once.
+Leak: Leak precrum from cage.
+Pat: Headpat. Repeated use ("patpatpat") simulates stroking sensation.
+Go Numb / Stop Numb: Lose the pleasurable component of all sensations.
+Pulse: Clench and feel pulsing pressure in ass.
+Synchronize with <object> / Unsynchronize: Feel all sensations visibly applied to synchronized object or person.
+
+//Dronespace settings
+Enable / Disable Expressive Mode: The ability to express emotions.
+Disable / Enable Emotions: The ability to feel emotions.
+Enable / Disable Femininity: The self-perception of femininity.
+Reset to Default: Disable expressive mode, enable emotions, and disable femininity.
+
+//NON-PUBLIC COMMANDS (Omitted in some releases)
+//Memory Commands [WITHHELD]
