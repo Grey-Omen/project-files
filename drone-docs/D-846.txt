@@ -38,7 +38,6 @@ Design Elements
 
   Gear Specifications Omitted
 
-
 //Drone greeting familiar
 Unit D-846 is ready to serve.
 
