@@ -16,7 +16,7 @@ Design Elements
 
   Purposes
     Servitude: In any way it can, including domming on demand
-    Representation: A bit, for showing off
+    Publicity: A bit, for showing off
 
   Autonomy
     Mixed directive (personal directive used for long term idling)
