@@ -94,6 +94,20 @@ Freeze: Hold exact position (or as close as possible) until unfrozen.
 Bind (Limb): Freeze the named limb and keep it in place until unbound.
 Lock / Unlock: Repels hands from touching cock while locked.
 
+//Movement Triggers. Each mode to be preceded by the word ‘Movement’.
+Normal: Returning to regular, natural movement.
+Sensual: Alluring movement, hips swaying as if wearing heels.
+Doll: Pulled along by strings attached at the wrists, ankles, shoulders, hips.
+Robotic: Heavier and more deliberate movements, robotic.
+Bitchsuit: Arms and legs bound as if wearing a bitchsuit, forced to crawl around.
+
+//Pose Triggers
+At Ease: Cease any current pose and return to normal.
+On Its Knees: On knees, hands behind back, ready to serve.
+Attention: Stood up straight, hands at sides, ready to inspect.
+All Fours: Posed on all fours, back arched, ready to be used.
+Tiptoes: Balancing on tiptoes, to amuse.
+
 //Sensation Triggers
 Pleasure: Warm rush of pleasure, throbbing in sex.
 Need: Longing and warm feeling in chest.
