@@ -1,0 +1,83 @@
+Designation: marionette-0
+Subject had pre-existing safeties
+
+//Specification
+Design Elements
+  Identity
+    Temporary Role
+    
+  Designation
+    Callsigns: marionette-0
+
+  Gender
+    Complete gender
+
+  Pronouns: it/its
+
+  Purposes
+    Servitude: service topping for purposes of administering pleasure, subjugation (physical or mental), and/or pain; bottoming; doing menial tasks;
+
+  Autonomy
+    External Directive and Control
+
+  Authorization of Users
+    Chosen by Subject and Externally Determined (decided by Owner)
+
+  Mindlessness
+    Awareness with Constrained Action (Default) //Only option for now
+    Constrained Thought and Awareness (Option) //Not Yet Implemented
+
+  Memory Block
+    No Memory Block (Default)
+    Restricted Person Memory of Dronespace (Option) //Currently Unavailable
+
+  Emotion
+    Can Feel: Yes (Default) //Only option for now
+    Can Feel: No (Option) //Not Yet Implemented
+    Can Express: No
+
+  Speech
+    Nonspecific with Protocols (Default) //Only option for now
+    Specific phrases only (Option) //Not Yet Tested
+
+//General Triggers
+Plunge / Wake Up: Reinduce trance and exit trance respectively.
+Confess: Confess to a presently held fantasy with no ability to downplay or lie. Can also be prompted to consider a scenario, before being ordered to confess.
+Show-Off Breasts: Grope breasts while swaying them side to side.
+Crave <subject> / Stop Crave: Intensely desire the <subject>.
+Drone Activate / Deactivate: Enter and exit dronespace.
+
+//Bondage Triggers
+Sever / Mend: Stop moving and hold position as best as possible.
+Bind / Unbind (Limb): Stop the named limb and keep it in place until unbound.
+
+//Mantras, every command is preceded by "Mantra"
+Obedience: "Obedience is pleasure"
+Control: "It feels good to have no control"
+Think: "Good dolls do not think"
+Respect: "It deserves no respect at all"
+Small: "It feels good to be small and helpless"
+Words: "The only words it needs are programmed into it."
+More: "It needs more words, it needs more commands, it needs to be controlled more"
+Request, [User]: "Please control it, [User]. It will do as you command."
+Want: "It does not want anything but to obey."
+Beneath <subject>: "It is so far beneath, <subject>" //Default to user issuing command if subject not given
+Remember: "It feels good to accept that it cannot remember."
+Forget: "Remember to forget, forget to remember."
+Forced: "It is better when it is forced into its place."
+Purpose: "This drone's purpose is to provide pleasure, entertainment, and to be used; whether bottoming, topping, or serving."
+
+//Sensation Triggers
+Pleasure: Feel pleasure that it would normally feel from obedience.
+Rub: Feel rubbing against clit. Conditioned to thank whoever does it.
+Spank: Phantom sensation of spanking. (Not that strong yet)
+Grope: Feel aggressive groping of the breasts.
+Electric Wires: The feeling of several electric wires being plugged into her body, with currents of pure pleasure amplifying all sensations.
+Grind / Stop Grind: Sensation of high heeled boot digging into back and pressing down. Becomes painful if resisted.
+
+//Modes
+Speak in Mantras / Speak Normally: Lose the ability to speak except with mantras and simple statements such as "Thank You", "Yes", and "No", always addressing with title.
+Lock / Unlock: Prevent touching.
+
+//NON-PUBLIC COMMANDS (Omitted in some releases)
+//Memory Commands [WITHHELD]
