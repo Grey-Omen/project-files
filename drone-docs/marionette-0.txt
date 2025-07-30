@@ -29,7 +29,7 @@ Design Elements
 
   Memory Block
     No Memory Block (Default)
-    Restricted Person Memory of Dronespace (Option) //Currently Unavailable
+    Restricted Person Memory of Dronespace (Option)
 
   Emotion
     Can Feel: Yes (Default) //Only option for now
