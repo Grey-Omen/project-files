@@ -74,6 +74,7 @@ Permission: "Good drones do not cum without permission."
 Holes: "Cocks belong in its holes."
 Remember: "It feels good to accept that it cannot remember."
 Forget: "Remember to forget, forget to remember."
+Default: "Its default settings are: emotions enabled, expressive mode disabled, femininity disabled."
 
 //Technically not a Mantra
 "Mine": "Yours."
