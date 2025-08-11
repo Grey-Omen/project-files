@@ -49,6 +49,7 @@ Go Blank / Stop Blank: Stop consciously thinking as best as possible.
 Bark: Bark like a fox / dog. Also triggered by clicker.
 Whimper and Whine / Speak: Prevent speaking, only allowing whimpering and whining. "Speak" ends this.
 Mute / Unmute: Prevent all vocalizations.
+Lock / Unlock: Repels hands from touching cock while locked.
 
 //Pose Triggers
 Attention: Stand as straight as possible, with shoulders back and breasts forward. Await commands, with a natural time-out of 20 seconds after the most recent command. Also triggered by a shock collar beep.
@@ -81,6 +82,8 @@ Begin / End Reinforcement Loop: During reinforcement loop, all commands obeyed c
 Pat: Headpat. Repeated use ("patpatpat") simulates stroking sensation.
 Tail Sway / Pull: Draw attention to sensation of phantom fox tail, swaying on its own or being pulled.
 Scritches: Sensation of scratching of ears, moved to top of head like a fox's ears.
+Pin <location>: Sensation of heel forcefully pressing down on location.
+Suction: Vacuum suction on breasts pulling downward. Mostly pleasure, slight pain in nipples.
 //Purring, Humming, and Moaning from users causes it to feel pleasure.
 
 //Mantras, every command is preceded by "Mantra"
@@ -94,11 +97,20 @@ Forget: "Remember to forget, forget to remember."
 Protocol: "All drone responses are dictated by protocol."
 Think: "Good drones do not think."
 Greet (User): "Affirmative (User Title). Unit D-610 is online and ready to serve."
+Small: "It feels good to be small and helpless."
+Require: "It requires more phrases."
+Purpose: "Its purpose is to be played with."
+Forced: "It is better when it is forced into its place."
+Never: "It will never cum without permission."
+Programming: "It has no emotion, it has no mind, it has no freedom, it has only programming."
+Surrender <person>: "It always feels good to surrender to <person>."
+Love: "A drone loves to serve."
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
 Permission Protocol: When close to orgasm, go numb, remove stimulus if able/allowed, and mantra permission.
 Expressive Mode: A mode which enables or disables the expression of emotion while in dronespace.
-Emulation Mode
+Emulation Mode: Emulate regular personality while observing non-visible programming.
+Speak in Mantras / Enable Speech: Restricts speech to just mantras and a few preset phrases "Affirmative", "Negative", "Thank You", "Acknowledged", and "Understood".
 
 //NON-PUBLIC COMMANDS (Omitted in some releases)
 //Memory Commands [WITHHELD]
