@@ -63,7 +63,7 @@ Design Elements
 //Headspaces
 Become a doll: Enter dollspace
 Cease to be a doll / Become human: Exit dollspace
-Drone, activate: Enter (emulated) dronespace, and greet
+Drone, activate: Enter dronespace, and greet
 Drone, deactivate: Exit dronespace
 
 //General Triggers
