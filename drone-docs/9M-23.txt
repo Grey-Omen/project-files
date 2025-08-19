@@ -87,12 +87,14 @@ Pat: Headpat. Repeated use ("patpatpat") simulates stroking sensation.
 Go Numb / Stop Numb: Lose the pleasurable component of all sensations.
 Pulse: Clench and feel pulsing pressure in ass.
 Synchronize with <object> / Unsynchronize: Feel all sensations visibly applied to synchronized object or person.
+Electric Wires: 
 
 //Dronespace settings
 Enable / Disable Expressive Mode: The ability to express emotions.
 Disable / Enable Emotions: The ability to feel emotions.
 Enable / Disable Femininity: The self-perception of femininity.
 Reset to Default: Disable expressive mode, enable emotions, and disable femininity.
+Begin / End Emulation: Emulate regular personality.
 
 //NON-PUBLIC COMMANDS (Omitted in some releases)
 //Memory Commands [WITHHELD]
