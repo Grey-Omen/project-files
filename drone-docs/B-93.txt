@@ -59,6 +59,7 @@ V-sign: Spread fingers past sides of mouth and stick tongue through the V. Can b
 Bind / Unbind (Limb): Freeze the named limb and keep it in place until unbound.
 Freeze / Unfreeze: Hold exact position (or as close as possible) until unfrozen. Compatible with stress positions until they become unsafe.
 Limp / Unlimp: Release all tension in muscles to safely go limp. If it is not safe, get in a safe position first.
+Gag on Cock / Ungag: Forces mouth open, as if sucking a cock. Cannot speak coherently but can moan. Sensation of sucking can be synchronized with a toy.
 
 //Sensation Triggers
 Tweak: Sensation of nipples being pinched and pulled.
@@ -91,6 +92,7 @@ Function: "A drone is content in her function."
 Must: "Drone must be programmed. Drone must be controlled. Drone must be used.
 Request: "Please command this unit, title. She needs to be controlled."
 Denial: "Denial gives her pleasure."
+Corrupt: "She is a drone meant to corrupt women with her allure."
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
 Speak in Mantras / Enable Speech
