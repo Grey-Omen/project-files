@@ -66,6 +66,8 @@ Remember: "It feels good to accept that it cannot remember."
 Forget: "Remember to forget, forget to remember."
 Forced: "It is better when it is forced into its place."
 Purpose: "This drone's purpose is to provide pleasure, entertainment, and to be used; whether bottoming, topping, or serving."
+Helpless: "It feels good to be helpless." //Testbed for generalized mantra system
+Powerless: "It is powerless in all things."
 
 //Sensation Triggers
 Pleasure: Feel pleasure that it would normally feel from obedience.

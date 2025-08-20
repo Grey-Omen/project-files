@@ -88,6 +88,7 @@ Content: "A <type> is content in its function."
 Love: "A <type> loves to serve."
 Purpose: "Its purpose is to obey its programming"
 Patience: "A good Administrator knows to be patient in order to achieve optimal results."
+Feel: "It feels good to be a drone."
 
 //Bondage Triggers
 Limp: Release all tension in muscles to safely go limp. If it is not safe, get in a safe position first.
