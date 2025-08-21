@@ -71,6 +71,7 @@ Drop / Plunge / Sink: Reinductors of various intensities, with plunge being stro
 Wake Up: Exit trance.
 Listen: Indicates that the following statement is a general purpose command to be obeyed.
 Confess: Confess to a presently held fantasy with no ability to downplay or lie.
+Start Static / End Static: Fill head with pleasant static that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
 
 //Mantras, every command is preceded by "Mantra". <type> is doll or drone.
 Doll/Drone: "It is a <type> meant to corrupt women with its allure."
