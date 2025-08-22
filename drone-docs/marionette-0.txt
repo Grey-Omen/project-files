@@ -46,6 +46,7 @@ Confess: Confess to a presently held fantasy with no ability to downplay or lie.
 Show-Off Breasts: Grope breasts while swaying them side to side.
 Crave <subject> / Stop Crave: Intensely desire the <subject>.
 Drone Activate / Deactivate: Enter and exit dronespace.
+Be Confused / Stop Confusion: Fill head with overwhelming confusion that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
 
 //Bondage Triggers
 Sever / Mend: Stop moving and hold position as best as possible.
