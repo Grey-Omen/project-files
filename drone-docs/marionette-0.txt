@@ -69,11 +69,13 @@ Forced: "It is better when it is forced into its place."
 Purpose: "This drone's purpose is to provide pleasure, entertainment, and to be used; whether bottoming, topping, or serving."
 Helpless: "It feels good to be helpless." //Testbed for generalized mantra system
 Powerless: "It is powerless in all things."
+Free: "It can never be free again."
 
 //Sensation Triggers
 Pleasure: Feel pleasure that it would normally feel from obedience.
 Rub: Feel rubbing against clit. Conditioned to thank whoever does it.
 Spank: Phantom sensation of spanking. (Not that strong yet)
+Zap: Feel a sensaition akin to an electric shock. Can be localized with "Zap [area]".
 Grope: Feel aggressive groping of the breasts.
 Electric Wires: The feeling of several electric wires being plugged into her body, with currents of pure pleasure amplifying all sensations.
 Grind / Stop Grind: Sensation of high heeled boot digging into back and pressing down. Becomes painful if resisted.
