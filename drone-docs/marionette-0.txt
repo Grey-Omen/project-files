@@ -57,7 +57,7 @@ Obedience: "Obedience is pleasure"
 Control: "It feels good to have no control"
 Think: "Good dolls do not think"
 Respect: "It deserves no respect at all"
-Small: "It feels good to be small and helpless"
+<adjective> Helpless: "It feels good to be <adjective> and helpless" //Default to "It feels good to be helpless" if adjective is not given
 Words: "The only words it needs are programmed into it."
 More: "It needs more words, it needs more commands, it needs to be controlled more"
 Request, [User]: "Please control it, [User]. It will do as you command."
@@ -67,7 +67,6 @@ Remember: "It feels good to accept that it cannot remember."
 Forget: "Remember to forget, forget to remember."
 Forced: "It is better when it is forced into its place."
 Purpose: "This drone's purpose is to provide pleasure, entertainment, and to be used; whether bottoming, topping, or serving."
-Helpless: "It feels good to be helpless." //Testbed for generalized mantra system
 Powerless: "It is powerless in all things."
 Free: "It can never be free again."
 
@@ -75,10 +74,10 @@ Free: "It can never be free again."
 Pleasure: Feel pleasure that it would normally feel from obedience.
 Rub: Feel rubbing against clit. Conditioned to thank whoever does it.
 Spank: Phantom sensation of spanking. (Not that strong yet)
-Zap: Feel a sensaition akin to an electric shock. Can be localized with "Zap [area]".
 Grope: Feel aggressive groping of the breasts.
 Electric Wires: The feeling of several electric wires being plugged into her body, with currents of pure pleasure amplifying all sensations.
 Grind / Stop Grind: Sensation of high heeled boot digging into back and pressing down. Becomes painful if resisted.
+<descriptive physical action>: A general reaction which mimics the results of a given description; bites, zaps, and most other physical actions can be used. 
 
 //Modes
 Speak in Mantras / Speak Normally: Lose the ability to speak except with mantras and simple statements such as "Thank You", "Yes", and "No", always addressing with title.
