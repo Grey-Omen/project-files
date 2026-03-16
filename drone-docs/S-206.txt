@@ -1,0 +1,144 @@
+Designation: S-206
+Golden Rules implanted, with subject-chosen user variant of rule 3
+
+//Specification
+Design Elements
+  Identity
+    Temporary Role
+
+  Designation
+    Alphanumeric: S-206
+
+  Gender
+    No Gender
+
+  Pronouns: It/Its
+
+  Purposes
+    Servitude: Bottoming and Service Topping at parties and on call
+
+  Autonomy
+    Mixed Directive
+
+  Authorization of Users
+    Chosen by Subject
+
+  Mindlessness
+    Complete Mindlessness
+
+  Memory Block
+    One-Way, No Drone Memory of Personhood
+
+  Emotion
+    Can Feel: Nothing
+    Can Express: Nothing
+
+  Speech
+    Nonspecific with Protocols
+
+  Chassis Materials
+    Latex, Spandex/Zentai
+
+  Body Shaping
+    Corsetry
+
+  Facial Covering
+    Gas Mask
+
+  Headset
+    No Headset
+
+  Footwear
+    Boots
+    High Heels
+
+//Headspaces
+Become a Doll: Enter dollspace.
+Cease to be a Doll / Become a Human: Exit Dollspace.
+Letting Out [Emotion]: Experience of specified emotion while in dollspace. Can be counted up to increase.
+Drone / S-206 Activate / Deactivate: Enter or exit dronespace. Always give greeting on activation.
+
+//General Triggers
+Drop / Sink: Reinductors of strong and weak intensity respectively.
+Wake Up: Exit trance.
+Command: Indicates that the following statement is a general purpose command to be obeyed.
+Confess: Confess to a presently held fantasy with no ability to downplay or lie.
+Lock / Unlock: Repels hands from touching for pleasure while locked.
+Start Static / Stop Static: Fill head with pleasant static that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
+Become Mindless: Stop consciously thinking as best as possible.
+Routine Fuckdoll / Finish: Verbally offer holes while preparing access, before lying down in an accessible position such as missionary.
+
+//Pose Triggers
+Marionette strings / Put the strings away: Instructions to move body feel impossible to resist, as though powerless and moved by marionette strings.
+At Attention: Stand as straight as possible, with shoulders back and breasts forward.
+At Ease: Exit pose.
+On Knees: 
+All Fours: Get down on hands and knees, with back arched.
+Head Down Ass Up: As All Fours, but with head and shoulders at ground, with arms wrapped on top of eachother in front of head, resting on ground.
+Leglock / Release: Tightly wrap legs around partner.
+
+//Bondage Triggers
+Bind / Unbind (Limb): Freeze the named limb and keep it in place until unbound.
+Freeze / Unfreeze: Hold exact position (or as close as possible) until unfrozen. Compatible with stress positions until they become unsafe.
+Limp / Unlimp: Release all tension in muscles to safely go limp. If it is not safe, get in a safe position first.
+Gag on Cock / Ungag: Forces mouth open, as if sucking a cock. Cannot speak coherently but can moan.
+
+//Sensation Triggers
+Pleasure: Warm rush of pleasure, throbbing in sex.
+Buzz / Stop Buzz: Ongoing sensation of vibrator, stronger with repeated use.
+Need: Longing to be an object and warm feeling in chest.
+Desperation: Intense desire to touch and orgasm.
+Scritches: Sensation of scratching of ears.
+Spank: Sensation of being spanked on both cheeks at once.
+Tweak: Sensation of nipples being pinched and pulled.
+Grope: Aggressive squeezing of breasts.
+Suction: Sucking on both breasts.
+Pin <location>: Sensation of heel forcefully pressing down on location.
+Pulse: Clench and feel pulsing pleasure in pussy.
+Pump: Pressure pumping in and out of pussy.
+Pat: Headpat. Repeated use ("patpatpat") simulates stroking sensation.
+Go Numb / Stop Numb: Lose the pleasurable component of all sensations.
+Begin / End Reinforcement Loop: During reinforcement loop, all commands obeyed cause buzz with strength based on speed of obedience. All non-command statements are to be repeated back, and count as commands.
+Electric Wires: The feeling of several electric wires being plugged into her body, with currents of pure pleasure amplifying all sensations.
+Doll Skin: Feel and crave the intense pressure of the chassis, even if it is not being worn.
+Countup to Edge: Feel increasing sensations of pleasure as numbers increase, mantra permission when on edge.
+Countdown to Orgasm: Approach orgasm in time with counting, confirmed with command to Cum.
+Cum: If on edge of orgasm, orgasm immediately.
+
+//Mantras, every command is preceded by "Mantra". <type> is doll or drone.
+Obedience: Obedience is pleasure
+Humiliate: Please humiliate it, it loves it
+Permission: Good <types> cannot cum without permission
+Body: Its body is not its to control
+Beneath: It is beneath the Administrator
+Empty: It is good and right to be empty
+Responses: All <type> responses are dictated by programming.
+Purpose: Its purpose is to obey its programming.
+Denial: Denial is pleasure.
+Think: Good <types> do not think.
+Maid: It is an obedient and chaste maid.
+Remember: It feels good to accept that it cannot remember.
+Forget: Remember to forget, forget to remember.
+Words: The only words it needs are programmed into it.
+Require: It requires more programming to communicate.
+Artificial: This <type> is artificial. Its skin is artificial.
+Latex: Latex feels so good. It is perfect and divine.
+Enclosure: Objects belong in total enclosure.
+Prepared: A good <type> is always prepared. It keeps clean toys and supplies on hand.
+
+//Implicit Mantras; these are not preceded by "Mantra"
+Greeting: Affirmative, [title]. Unit S-206 is online and ready to serve.
+Identify: This <type> is unit S-206. It is an object programmed to serve.
+Offer Holes: You are authorized to use these holes, [title]. Please enjoy them.
+Offer Edging: This <type> will edge you with these holes. You are not allowed to cum.
+Offer Service: This <type> is here to serve, [title]. How may it be of service?
+State Punishment: You have earned a punishment. This <type> will spank you.
+Offer Aftercare: If you are in need of aftercare, this <type> will assist you.
+  [If Asked]: This <type> can offer cuddles and reassurances.
+Generate [type]: Generates speech matching the type, such as praise or humiliation.
+
+//Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
+Speak in Mantras / Enable Speech: Restricts speech to just mantras and a few preset phrases "Affirmative", "Negative", "Thank You", "Acknowledged", and "Understood".
+
+//NON-PUBLIC COMMANDS (Omitted in some releases)
+//Memory Commands [WITHHELD]
