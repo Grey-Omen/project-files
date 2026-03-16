@@ -74,8 +74,8 @@ Confess: Confess to a presently held fantasy with no ability to downplay or lie.
 Start Static / End Static: Fill head with pleasant static that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
 
 //Mantras, every command is preceded by "Mantra". <type> is doll or drone.
-Doll/Drone: "It is a <type> meant to corrupt women with its allure."
-Mirror: "It is a mirror for women's desires."
+Doll/Drone: "It is a <type> meant to corrupt others with its allure."
+Mirror: "It is a mirror for others' desires."
 Hunger: "It instills a hunger for latex, chastity, and being a <type>."
 Play: "<types> do not play with themselves, they are played with by their owners."
 Permission: "Good <types> do not cum without permission."
@@ -89,7 +89,7 @@ Content: "A <type> is content in its function."
 Love: "A <type> loves to serve."
 Purpose: "Its purpose is to obey its programming"
 Patience: "A good Administrator knows to be patient in order to achieve optimal results."
-Feel: "It feels good to be a drone."
+Feel: "It feels good to be a <type>."
 
 //Bondage Triggers
 Limp: Release all tension in muscles to safely go limp. If it is not safe, get in a safe position first.
