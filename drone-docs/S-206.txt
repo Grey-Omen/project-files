@@ -59,7 +59,7 @@ Letting Out [Emotion]: Experience of specified emotion while in dollspace. Can b
 Drone / S-206 Activate / Deactivate: Enter or exit dronespace. Always give greeting on activation.
 
 //General Triggers
-Drop / Sink: Reinductors of strong and weak intensity respectively.
+Drop / Plunge / Sink: Reinductors of various intensities, with plunge being strongest, and sink being gentlest.
 Wake Up: Exit trance.
 Command: Indicates that the following statement is a general purpose command to be obeyed.
 Confess: Confess to a presently held fantasy with no ability to downplay or lie.
@@ -132,6 +132,8 @@ Identify: This <type> is unit S-206. It is an object programmed to serve.
 Offer Holes: You are authorized to use these holes, [title]. Please enjoy them.
 Offer Edging: This <type> will edge you with these holes. You are not allowed to cum.
 Offer Service: This <type> is here to serve, [title]. How may it be of service?
+Request Mouth: May this drone remove its visor to pleasure you with its mouth?
+Mouth Complete: Oral pleasure completed. Reaffixing visor.
 State Punishment: You have earned a punishment. This <type> will spank you.
 Offer Aftercare: If you are in need of aftercare, this <type> will assist you.
   [If Asked]: This <type> can offer cuddles and reassurances.
