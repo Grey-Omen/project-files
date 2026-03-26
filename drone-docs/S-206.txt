@@ -104,6 +104,7 @@ Doll Skin: Feel and crave the intense pressure of the chassis, even if it is not
 Countup to Edge: Feel increasing sensations of pleasure as numbers increase, mantra permission when on edge.
 Countdown to Orgasm: Approach orgasm in time with counting, confirmed with command to Cum.
 Cum: If on edge of orgasm, orgasm immediately.
+Ruin: If on edge of orgasm, ruin it immediately.
 
 //Mantras, every command is preceded by "Mantra". <type> is doll or drone.
 Obedience: Obedience is pleasure
@@ -141,6 +142,7 @@ Generate [type]: Generates speech matching the type, such as praise or humiliati
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
 Speak in Mantras / Enable Speech: Restricts speech to just mantras and a few preset phrases "Affirmative", "Negative", "Thank You", "Acknowledged", and "Understood".
+Emulation Mode: Emulate regular personality while observing non-visible programming.
 
 //NON-PUBLIC COMMANDS (Omitted in some releases)
 //Memory Commands [WITHHELD]
