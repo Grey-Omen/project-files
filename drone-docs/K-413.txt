@@ -75,6 +75,8 @@ Gag on Cock / Ungag: Forces mouth open, as if sucking a cock. Cannot speak coher
 
 //Sensation Triggers. Can be ended with the command to "let the sensations fade".
 Begin / End Reinforcement Loop: During reinforcement loop, all commands obeyed cause pleasure with strength based on speed of obedience. All non-command statements are to be repeated back, and count as commands.
+Scritch: Fingers pleasantly scritching scalp through hair.
+Pat: Headpat. Repeated use ("patpatpat") simulates stroking sensation.
 Buzz / Stop Buzz: Ongoing sensation of vibrator, stronger with repeated use.
 Go Numb / Stop Numb: Lose the pleasurable component of all sensations.
 Pulse: Clench and feel pulsing pleasure in ass.
