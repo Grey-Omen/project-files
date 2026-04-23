@@ -143,6 +143,7 @@ Generate [type]: Generates speech matching the type, such as praise or humiliati
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
 Speak in Mantras / Enable Speech: Restricts speech to just mantras and a few preset phrases "Affirmative", "Negative", "Thank You", "Acknowledged", and "Understood".
 Emulation Mode: Emulate regular personality while observing non-visible programming.
+Tactile Mode: Disable dronespace's numbing to feel physical sensations normally.
 
 //NON-PUBLIC COMMANDS (Omitted in some releases)
 //Memory Commands [WITHHELD]
