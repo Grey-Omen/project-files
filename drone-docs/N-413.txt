@@ -76,6 +76,7 @@ Bind / Unbind (Limb): Freeze the named limb and keep it in place until unbound.
 Freeze / Unfreeze: Hold exact position (or as close as possible) until unfrozen. Compatible with stress positions until they become unsafe.
 Limp / Unlimp: Release all tension in muscles to safely go limp. If it is not safe, get in a safe position first.
 Gag on Cock / Ungag: Forces mouth open, as if sucking a cock. Cannot speak coherently but can moan.
+Lock / Unlock: Repels hands from touching cock while locked.
 
 //Sensation Triggers. Can be ended with the command to "let the sensations fade".
 Begin / End Reinforcement Loop: During reinforcement loop, all commands obeyed cause pleasure with strength based on speed of obedience. All non-command statements are to be repeated back, and count as commands.
