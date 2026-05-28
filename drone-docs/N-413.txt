@@ -97,6 +97,7 @@ Need: A need for all forms of pleasure, mostly from being subservient.
 Desperation: Intense desire to feel direct pleasure and orgasm.
 Electric Wires / Stop Wires: The feeling of several electric wires being plugged into its body, with currents of pure pleasure amplifying all sensations. "Electric" can be used to amplify any sensation trigger.
 Doll Skin: Sensation of total latex enclosure.
+Synchronize with <object> / Unsynchronize / Stop Synchronize: Feel all sensations visibly applied to synchronized object or person.
 
 //Mantras, every command is preceded by "Mantra".
 Trapped "It feels so good to be trapped."
