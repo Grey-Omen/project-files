@@ -61,6 +61,8 @@ Command: Indicates that the following statement is a general purpose command to 
 Confess: Confess to a presently held fantasy with no ability to downplay or lie.
 Start Static / Stop Static: Fill head with pleasant static that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
 "UwU": Make an uwu sound in a pretty voice.
+Drone / K-413, activate: Enter dronespace, and greet
+Drone / K-413, deactivate: Exit dronespace
 
 //Pose Triggers
 At Attention: Stand as straight as possible, with shoulders back and breasts forward.
@@ -75,7 +77,7 @@ Gag on Cock / Ungag: Forces mouth open, as if sucking a cock. Cannot speak coher
 
 //Sensation Triggers. Can be ended with the command to "let the sensations fade".
 Begin / End Reinforcement Loop: During reinforcement loop, all commands obeyed cause pleasure with strength based on speed of obedience. All non-command statements are to be repeated back, and count as commands.
-Scritch: Fingers pleasantly scritching scalp through hair.
+Scritch: Fingers pleasantly scritching scalp through hair, and on phantom puppy ears.
 Pat: Headpat. Repeated use ("patpatpat") simulates stroking sensation.
 Buzz / Stop Buzz: Ongoing sensation of vibrator, stronger with repeated use.
 Go Numb / Stop Numb: Lose the pleasurable component of all sensations.
@@ -105,6 +107,7 @@ Empty "It is good and right to be empty."
 Choice "It has no choice whatsoever."
 Nothing "It is nothing more than a drone."
 Make "Good drones make good drones."
+Control "Its body is not its own to control"
 Greeting "Affirmative / Greetings [title]. Unit K-413 is online and ready to serve."
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)

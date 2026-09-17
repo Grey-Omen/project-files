@@ -61,6 +61,8 @@ Command: Indicates that the following statement is a general purpose command to 
 Confess: Confess to a presently held fantasy with no ability to downplay or lie.
 Start Static / Stop Static: Fill head with pleasant static that prevents answering any kind of question. Any attempt to remember anything or logically reason turns up nothing.
 Get Hard: Become erect.
+Drone / N-413, activate: Enter dronespace, and greet
+Drone / N-413, deactivate: Exit dronespace
 
 //Pose Triggers
 At Attention: Stand as straight as possible, with shoulders back and breasts forward.
@@ -111,6 +113,7 @@ Exists "It exists to serve. It loves to serve."
 Empty "It is good and right to be empty."
 Choice "It has no choice whatsoever."
 Make "Good drones make good drones."
+Control "Its body is not its own to control"
 Greeting "Affirmative / Greetings [title]. Unit N-413 is online and ready to serve."
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
