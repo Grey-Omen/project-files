@@ -77,7 +77,7 @@ Start Static / End Static: Fill head with pleasant static that prevents answerin
 Doll/Drone: "It is a <type> meant to corrupt others with its allure."
 Mirror: "It is a mirror for others' desires."
 Hunger: "It instills a hunger for latex, chastity, and being a <type>."
-Play: "<types> do not play with themselves, they are played with by their owners."
+Play: "<types> do not play with themselves, they are played with by others."
 Permission: "Good <types> do not cum without permission."
 Protocol: "All <type> responses are dictated by protocol."
 Position: "This unit is the administrator of [relevant designations of present drones]"
