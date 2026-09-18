@@ -108,6 +108,7 @@ Choice "It has no choice whatsoever."
 Nothing "It is nothing more than a drone."
 Make "Good drones make good drones."
 Control "Its body is not its own to control"
+Displays "Good dolls make nice displays"
 Greeting "Affirmative / Greetings [title]. Unit K-413 is online and ready to serve."
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)

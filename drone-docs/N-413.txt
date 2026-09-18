@@ -114,6 +114,7 @@ Empty "It is good and right to be empty."
 Choice "It has no choice whatsoever."
 Make "Good drones make good drones."
 Control "Its body is not its own to control"
+Displays "Good dolls make nice displays"
 Greeting "Affirmative / Greetings [title]. Unit N-413 is online and ready to serve."
 
 //Standing Protocols (Can be Enacted and Deactivated with a verbal command, best done in trance)
